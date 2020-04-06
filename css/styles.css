@@ -1,5 +1,6 @@
 body {
     background-size: cover;
+    background-image: url(../img/travel.jpeg);
     background-position: center center;
     position: relative;
     background-color: whitesmoke;
