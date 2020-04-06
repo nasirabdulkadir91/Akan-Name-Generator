@@ -4,3 +4,10 @@ body {
     position: relative;
     background-color: whitesmoke;
   }
+  .brown {
+  
+    background-color:teal;
+    background-image: url(../img/young\ kid.jpeg);
+    /*color:  	#AF6000;*/
+    color: aqua;
+  }
